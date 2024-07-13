@@ -1,4 +1,4 @@
-#!/Users/ahimsadas/Documents/Code/monthly_growth_calculator/myenv/bin/python3.12
+#!/Users/ahimsadas/Documents/Code/monthly_growth_calculator/monthly_growth_calculator/myenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

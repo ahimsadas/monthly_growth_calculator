@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ahimsadas/Documents/Code/monthly_growth_calculator/myenv"
+set -gx VIRTUAL_ENV "/Users/ahimsadas/Documents/Code/monthly_growth_calculator/monthly_growth_calculator/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
